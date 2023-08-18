@@ -1,0 +1,18 @@
+/home/petrolhead/Documents/Asynchronous Challenge/obj/Debug/net5.0/Asynchronous Challenge.csproj.AssemblyReference.cache
+/home/petrolhead/Documents/Asynchronous Challenge/obj/Debug/net5.0/Asynchronous Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/petrolhead/Documents/Asynchronous Challenge/obj/Debug/net5.0/Asynchronous Challenge.AssemblyInfoInputs.cache
+/home/petrolhead/Documents/Asynchronous Challenge/obj/Debug/net5.0/Asynchronous Challenge.AssemblyInfo.cs
+/home/petrolhead/Documents/Asynchronous Challenge/obj/Debug/net5.0/Asynchronous Challenge.csproj.CoreCompileInputs.cache
+/home/petrolhead/Documents/Asynchronous Challenge/bin/Debug/net5.0/Asynchronous Challenge
+/home/petrolhead/Documents/Asynchronous Challenge/bin/Debug/net5.0/Asynchronous Challenge.deps.json
+/home/petrolhead/Documents/Asynchronous Challenge/bin/Debug/net5.0/Asynchronous Challenge.runtimeconfig.json
+/home/petrolhead/Documents/Asynchronous Challenge/bin/Debug/net5.0/Asynchronous Challenge.runtimeconfig.dev.json
+/home/petrolhead/Documents/Asynchronous Challenge/bin/Debug/net5.0/Asynchronous Challenge.dll
+/home/petrolhead/Documents/Asynchronous Challenge/bin/Debug/net5.0/ref/Asynchronous Challenge.dll
+/home/petrolhead/Documents/Asynchronous Challenge/bin/Debug/net5.0/Asynchronous Challenge.pdb
+/home/petrolhead/Documents/Asynchronous Challenge/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/petrolhead/Documents/Asynchronous Challenge/obj/Debug/net5.0/Asynchronous Challenge.csproj.CopyComplete
+/home/petrolhead/Documents/Asynchronous Challenge/obj/Debug/net5.0/Asynchronous Challenge.dll
+/home/petrolhead/Documents/Asynchronous Challenge/obj/Debug/net5.0/ref/Asynchronous Challenge.dll
+/home/petrolhead/Documents/Asynchronous Challenge/obj/Debug/net5.0/Asynchronous Challenge.pdb
+/home/petrolhead/Documents/Asynchronous Challenge/obj/Debug/net5.0/Asynchronous Challenge.genruntimeconfig.cache
